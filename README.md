@@ -1,2 +1,2 @@
 # BLOO-game
-BLOO game
+a beautiful BLOO game
